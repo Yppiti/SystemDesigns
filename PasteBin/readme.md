@@ -1,1 +1,1 @@
-![Design](https://github.com/Yppiti/SystemDesigns/raw/main/PasteBin/images/PaseBin.png)
+![Design](https://github.com/Yppiti/SystemDesigns/raw/main/PasteBin/images/PasteBin.png)
